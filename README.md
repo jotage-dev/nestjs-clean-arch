@@ -12,7 +12,7 @@ Comando para criar services (teminal)
 
 <h3>Ideia central de uso de modules e services de env-config:<h3>
 <p>Ele está aplicando uma Inversao de independencia que ao inves de: <br>
-<code>process.env.JWT_SECRET<code> ele vai fazer:<br>
+<code>process.env.JWT_SECRET<code><br> ele vai fazer:<br>
 <code>Use Case → Interface → Implementação que lê ENV<code>
 <p>
 
